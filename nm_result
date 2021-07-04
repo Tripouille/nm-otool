@@ -1,0 +1,13 @@
+-> % nm ft_nm 
+                 U ___stderrp
+0000000100000000 T __mh_execute_header
+                 U _close
+                 U _fprintf
+                 U _fstat$INODE64
+0000000100000c40 T _main
+                 U _mmap
+                 U _munmap
+0000000100000cd0 t _nm
+                 U _open
+                 U _printf
+                 U dyld_stub_binder
